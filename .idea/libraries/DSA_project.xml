@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DSA_project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DSA_project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
